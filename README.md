@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Asim Mehmood Khan
-#### I am Software Developer
+#### I am a Full Stack Web Developer with specialization in C#.NET, ASP.NET, React JS, Vaniall Javascript. I am always on the look out for new opportunities and actively seeking work. 
 ![I am Software Developer](banner.png)
 
 The desire to learn and understand new technologies and innovations has always been my passion. Having graduated with honors in Computing and experience working in both government and private sectors helped me nurture myself in my field and understood that learning is a never-ending process. While mastering myself in the disciplines of Project Management and Agile Methodology, nothing becomes impossible. Using my experience and knowledge I will deliver your desired requirements that align technology with your business. I usually develop, design, and deploy using Microsoft Technologies.
