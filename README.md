@@ -28,7 +28,7 @@ Skills:
 - ⚡ Fun fact: I am a coder 
 
 #### My Portfolio
-[https://asimkhan2019.github.io/HTML_Mobile_Exercise/](https://asimkhan2019.github.io/HTML_Mobile_Exercise/)
+[My Profile](https://asimkhan2019.github.io/HTML_Mobile_Exercise/)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AsimKhan2019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/asim-khan-9bbb4211//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/asim.m.khan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asimmkhan2020/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@vtechbiz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.vtechbiz.net)  
