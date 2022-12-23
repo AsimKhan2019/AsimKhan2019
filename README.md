@@ -1,8 +1,6 @@
 ![I am Software Developer](banner.png)
 
-<img alt="Night Coding" src="" width='40' align="left"/><h2>Hey there! I'm Asim Mehmood Khan</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<img alt="Night Coding" src="wave.gif" width='40' align="left"/><h2>Hey there! I'm Asim Mehmood Khan</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
