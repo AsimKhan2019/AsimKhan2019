@@ -32,7 +32,9 @@
 ![Azure Pipelines Badge](https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat&logo=Azure-Pipelines&logoColor=white)&nbsp;
 ![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)&nbsp;
 ![Less](http://img.shields.io/badge/-Less-254c7d?style=flat-square&logo=less&logoColor=white)&nbsp;
-
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)&nbsp;
+![githubActions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)&nbsp;
+![redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)&nbsp;
 
 #### My Portfolio
 [My Profile](https://asim-khan.netlify.app)
