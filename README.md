@@ -1,38 +1,45 @@
 ![I am Software Developer](banner.png)
 
-### Hi there 👋, My name is Asim Mehmood Khan
-### I am from Lahore, Pakistan
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Asim Mehmood Khan</h2>
 
-#### I am a Full Stack Web Developer with specialization in C#.NET | ASP.NET | React JS | Vanilla Javascript. 
-#### I am always looking out for new opportunities and actively seeking work.  
-#### I am currently looking for a job.
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-The desire to learn and understand new technologies and innovations has always been my passion. Having graduated with honors in Computing and experience working in both government and private sectors helped me nurture myself in my field and understood that learning is a never-ending process. While mastering myself in the disciplines of Project Management and Agile Methodology, nothing becomes impossible. Using my experience and knowledge I will deliver your desired requirements that align technology with your business. I usually develop, design, and deploy using Microsoft Technologies.
+### 👨🏻‍💻 &nbsp;About Me
 
-Skills: 
-#### C# .NET 
-#### ASP.NET 
-#### SQL SERVER
-#### MY SQL 
-#### Azure DevOps  
-#### React JS 
-#### HTML / CSS
-#### jQuery
-#### Vanilla JS
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I graduated from University of Portsmouth, UK in BSc.(Hons) In Computing.\
+🌱 &nbsp;I'm on track for learning more about Microsoft Azure DevOps, and AWS Solutions.\
+✍️ &nbsp;In my free time, I spend time with my family and go on for long walks.\
+💬 &nbsp;Feel free to reach out to me for projects, or just for some interesting discussion.\
+✉️ &nbsp;You can reach me via email: asim.khan@vtechbiz.net I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1IG4Yib4h1KzBrOTl1mNFL09ZaizljtUFJ_DBKBBVC-Y/edit?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-- 🔭 I’m currently working on Azure DevOps and Web Development 
-- 🌱 I’m currently learning New Technologies and languages 
-- 👯 I’m looking to collaborate on Projects, development, and learning 
-- 🤔 I’m looking for help with Inspiring new ways and ideas 
-- 💬 Ask me about anything 
-- 📫 How to reach me: asim.khan@vtechbiz.net 
-- ⚡ Fun fact: I am a coder 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 #### My Portfolio
-[My Profile](https://asimkhan2019.github.io/HTML_Mobile_Exercise/)
+[My Profile](https://asim-khan.netlify.app)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AsimKhan2019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/asim-khan-9bbb4211//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/asim.m.khan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asimmkhan2020/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@vtechbiz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.vtechbiz.net)  
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/asim-khan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/vtechbiz"><img src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.facebook.com/VtechbizSolutions"><img src="https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
    
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AsimKhan2019)](https://github.com/ryo-ma/github-profile-trophy)
