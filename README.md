@@ -26,6 +26,11 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![C# Badge](https://img.shields.io/badge/-Visual%20Studio-239120?style=flat&logo=C-Sharp&logoColor=white)&nbsp;
+![ASP.NET Badge](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white)&nbsp;
+![Azure Badge](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=Microsoft-Azure&logoColor=white)&nbsp;
+![Azure Pipelines Badge](https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat&logo=Azure-Pipelines&logoColor=white)&nbsp;
+
 
 #### My Portfolio
 [My Profile](https://asim-khan.netlify.app)
