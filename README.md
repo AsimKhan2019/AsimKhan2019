@@ -30,6 +30,8 @@
 ![ASP.NET Badge](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white)&nbsp;
 ![Azure Badge](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=Microsoft-Azure&logoColor=white)&nbsp;
 ![Azure Pipelines Badge](https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat&logo=Azure-Pipelines&logoColor=white)&nbsp;
+![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)&nbsp;
+![Less](http://img.shields.io/badge/-Less-254c7d?style=flat-square&logo=less&logoColor=white)&nbsp;
 
 
 #### My Portfolio
