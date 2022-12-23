@@ -6,8 +6,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I graduated from University of Portsmouth, UK in BSc.(Hons) In Computing and currently working with vTechBiz Solutions.\
+💡 &nbsp;I am a Full Stack Web Developer | DevOps Engineer. Actively looking for a role in IT industry. I am from Lahore, Pakistan.\
+🎓 &nbsp;I graduated from University of Portsmouth, UK in BSc.(Hons) In Computing and currently working with vTechBiz Solutions Lahore, Pakistan.\
 🌱 &nbsp;I'm on track for learning more about Microsoft Azure DevOps, and AWS Solutions.\
 ✍️ &nbsp;In my free time, I spend time with my family and go on for long walks.\
 💬 &nbsp;Feel free to reach out to me for projects, or just for some interesting discussion.\
