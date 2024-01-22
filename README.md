@@ -51,7 +51,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/asim-khan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/vtechbiz"><img src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.facebook.com/VtechbizSolutions"><img src="https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
    
 
